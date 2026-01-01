@@ -1,0 +1,5 @@
+adi=input("Adinizi giriniz ")
+soyad=input("Soyadinizi giriniz ")
+ders=input("Ders adi giriniz ")
+sinif=input("Sinif giriniz ")
+print(adi, soyad, ders, sinif)
