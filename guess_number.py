@@ -1,6 +1,7 @@
+print("bir sayi seçiniz")
 import random
 
-secret_number=random.randint(1,100) 
+secret_number=random.randint(1,50) 
 guess=0
 atttemps=0 
 
