@@ -1,1 +1,1 @@
-This folder contains basic examples using lists and tuples in Python
+This folder contains basic examples using lists and tuples in Python.
