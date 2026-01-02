@@ -1,8 +1,6 @@
-# Python-Learning
-I am a 9th grade student learning Python basics.
-This repository contains small examples and exercises.
+# Python Learning Journey 
+This repostory contains my Python pratice codes and mini projects.
+I created this repo to track my progress while learning Python fundamentals.
 
-## Files
--hello.py
--if_else.py
--loops.py
+##Folder Structure
+-basics
